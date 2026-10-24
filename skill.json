@@ -1,0 +1,10 @@
+{
+  "name": "genpark-token-bucket-traffic-shaper-skill",
+  "version": "1.0.1",
+  "description": "Token bucket traffic shaper with smooth replenishment and burst capacity for LLM tool call throttling",
+  "tools": [
+    "consume_tokens",
+    "get_bucket_status",
+    "replenish_bucket"
+  ]
+}
